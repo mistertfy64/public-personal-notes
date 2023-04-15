@@ -40,7 +40,7 @@ Apparently the book also used guess-and-check. I guess that's what happens when 
 
 **Question:** (abridged) $f(n) = n^3$, $g(n) = f(n+1) - f(n)$, What is $\frac{1}{10}(g(0)+g(1)+g(2)+\cdots+g(9))$?
 
-**My Answer:** $100$
+**My Answer:** $100$ (2023-04-15)
 
 My approach is to use the formula for the difference of cubes, $a^3-b^3=(a-b)(a^2+ab+b^2)$.
 
@@ -64,7 +64,7 @@ $\Rightarrow \text{Answer} = 100$
 
 The book used a much simpler method. According to it, substituting $g$ with $f$ gives:
 
-$\{f(1)-f(0))+(f(2)-f(1))+\cdots+(f(10)-f(9)\}$
+$(f(1)-f(0))+(f(2)-f(1))+\cdots+(f(10)-f(9))$
 
 $= f(10)-f(9)+f(9)-f(8)+\cdots+f(1)-f(0)$
 
