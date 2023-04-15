@@ -48,17 +48,17 @@ However, since $g(n) = f(n+1)-f(n)$, the first part of the difference of cubes f
 
 $g(n) = (2n-1)^2-(n+1)(n)$
 
-$\rArr g(n) = 4n^2+4n+1-(n^2+n)$.
+$\Rightarrow g(n) = 4n^2+4n+1-(n^2+n)$.
 
-$\rArr g(n) = 3n^2+3n+1$.
+$\Rightarrow g(n) = 3n^2+3n+1$.
 
 Therefore I would get 
 
 $\text{Answer} = \frac{1}{10}(10+135+855)$
 
-$\rArr \text{Answer} = \frac{1}{10}(1000)$
+$\Rightarrow \text{Answer} = \frac{1}{10}(1000)$
 
-$\rArr \text{Answer} = 100$
+$\Rightarrow \text{Answer} = 100$
 
 **Correct Answer:** $100$
 
